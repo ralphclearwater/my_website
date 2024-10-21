@@ -265,6 +265,11 @@ a:focus {
   margin: 45px 0;
 }
 
+.slider_section .detail-box h2 {
+  
+  color:#1c0b0e;
+}
+
 .slider_section .detail-box h1 {
   font-weight: bold;
   font-size: 3.5rem;
